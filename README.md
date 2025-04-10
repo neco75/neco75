@@ -1,7 +1,7 @@
 <!-- 2. プロフィールや連絡先を変更 -->
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> neco75's GitHub
 
-- Profile: [link](https://neco-portfolio-site.vercel.app/)
+- Profile: [link](https://neco-portfolio-site.vercel.app/about)
 - X: [@ocen_UoA30C2](https://x.com/ocen_UoA30C2)
 <br>
 
